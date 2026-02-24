@@ -1,3 +1,5 @@
+<img width="188" height="188" alt="t4favicon" src="https://github.com/user-attachments/assets/57104ee0-142d-4886-bb53-acc724ec3e77" />
+
 # T4Agents 🇨🇦  
 ### Canadian T4 Payroll Intelligence Platform
 
